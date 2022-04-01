@@ -36,3 +36,56 @@
     transform: rotate(360deg);
   }
 }
+
+
+h1, p {
+  font-family: Lato;
+}
+
+.loginform{
+  width:50%;
+  background-color: rgb(206, 205, 205);
+  border-radius:30px;
+  padding:10px;
+  text-align: left;
+  font-size: 32;
+  margin-bottom:20px;
+ 
+}
+
+.loginform input, label{
+
+  width : 80%;
+  height:20px;
+  font-family:sans-serif;
+  margin-bottom: 10px;
+  font-size:20px;
+
+}
+
+h3{
+  text-align: center;
+}
+
+.Contactus {
+  text-align: center;
+  border-radius:20px;
+  background-color:rgb(240, 227, 227);
+  padding:30px;
+  font-family:monospace;
+
+}
+
+.contactus label, input{
+  margin-bottom:10px;
+  height:20px;
+  width:200px;
+}
+
+.details{
+  margin-top:20px;
+  text-align:left;
+  border-top: 2px solid;
+  font-size: 20px;
+}
+
